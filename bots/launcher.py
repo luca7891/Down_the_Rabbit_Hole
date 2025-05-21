@@ -4,8 +4,8 @@ import subprocess
 import os
 
 # === CONFIG === #
-VPN_SERVICE_NAME = "995F3290-DDCD-41B8-B2F6-3F4B98E0C1ED"
-STATUS_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP /Maintenance /status_file.lock"
+VPN_SERVICE_NAME = ""
+STATUS_FILE = "Maintenance /status_file.lock"
 # ============== #
 def switch_vpn():
     print("Switching VPN...")
