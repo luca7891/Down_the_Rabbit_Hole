@@ -152,7 +152,7 @@ def login_through_google(driver, profile_path, retries=6):
             time.sleep(1)
             login_btn.click()
         except Exception:
-            print("Standard click failed, trying JavaScript click...")
+            print("Click failed")
             time.sleep(5)
             login_btn = driver.find_element(By.XPATH, '//div[@role="button" or @id][@tabindex="0"]')
             driver.execute_script("arguments[0].click();", login_btn)
