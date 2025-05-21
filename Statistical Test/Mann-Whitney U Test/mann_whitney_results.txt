@@ -1,0 +1,14 @@
+=== LIKES ===
+U statistic: 66743578.50
+P-value: 0.00000
+→ Statistically significant
+
+=== REPLIES ===
+U statistic: 71817597.00
+P-value: 0.00000
+→ Statistically significant
+
+=== RETWEETS ===
+U statistic: 78399793.50
+P-value: 0.00000
+→ Statistically significant

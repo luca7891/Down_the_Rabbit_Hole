@@ -1,0 +1,4 @@
+metric,U statistic,p-value,significant (α=0.05)
+likes,66743578.5,0.0000008871,Yes
+replies,71817597.0,0.0000000000,Yes
+retweets,78399793.5,0.0000000000,Yes
