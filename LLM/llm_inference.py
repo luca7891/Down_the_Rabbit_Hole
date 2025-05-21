@@ -4,7 +4,7 @@ from tqdm import tqdm
 from groq_client import get_responsellama
 
 # === Load test set ===
-test_path = '/Users/lucadutu/PycharmProjects/Programming for AI/BAP/Data/Pre-Musk Data/sampled_tweets.csv'
+test_path = 'Data/Pre-Musk Data/sampled_tweets.csv'
 test_df = pd.read_csv(test_path)
 
 # === Detect tweet column ===
@@ -45,6 +45,6 @@ for idx, row in tqdm(test_df.iterrows(), total=len(test_df), desc="Classifying")
 
 # === Save results ===
 test_df['predicted_label'] = predictions
-output_path = '/Users/lucadutu/PycharmProjects/Programming for AI/BAP/Data/LLM Data/pre_musk_predictions.csv'
+output_path = 'Data/LLM Data/pre_musk_predictions.csv'
 test_df.to_csv(output_path, index=False)
 print(f"\nPredictions saved to: {output_path}")
