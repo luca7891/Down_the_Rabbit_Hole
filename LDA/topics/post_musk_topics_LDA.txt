@@ -1,0 +1,5 @@
+Topic 0: 0.020*"میں" + 0.018*"اور" + 0.013*"پاکستان" + 0.012*"ہیں" + 0.011*"بھارت" + 0.010*"نہیں" + 0.009*"بھی" + 0.007*"انڈیا" + 0.006*"کیا" + 0.006*"جنگ"
+Topic 1: 0.008*"pakistan" + 0.007*"bir" + 0.003*"pahalgam" + 0.003*"pahalgamterroristattack" + 0.003*"india" + 0.003*"türk" + 0.003*"biz" + 0.003*"indian" + 0.002*"wakeupmuslim" + 0.002*"srail"
+Topic 2: 0.013*"que" + 0.006*"não" + 0.005*"para" + 0.005*"lula" + 0.005*"com" + 0.004*"uma" + 0.004*"army" + 0.004*"illegal" + 0.003*"bolsonaro" + 0.003*"people"
+Topic 3: 0.010*"pakistan" + 0.008*"india" + 0.005*"people" + 0.005*"israel" + 0.004*"war" + 0.004*"never" + 0.004*"indian" + 0.003*"like" + 0.003*"world" + 0.003*"gaza"
+Topic 4: 0.007*"bir" + 0.003*"sen" + 0.003*"için" + 0.002*"amk" + 0.002*"trump" + 0.002*"ali" + 0.002*"chp" + 0.002*"allah" + 0.002*"siz" + 0.002*"nasıl"

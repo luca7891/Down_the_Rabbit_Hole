@@ -1,0 +1,5 @@
+Topic 0: 0.010*"back" + 0.007*"punch" + 0.007*"say" + 0.007*"got" + 0.007*"ill" + 0.005*"everyone" + 0.005*"follow" + 0.005*"take" + 0.005*"nite" + 0.005*"wouldnt"
+Topic 1: 0.015*"one" + 0.008*"face" + 0.008*"lol" + 0.006*"need" + 0.006*"give" + 0.006*"right" + 0.006*"bnp" + 0.006*"day" + 0.006*"wanna" + 0.006*"already"
+Topic 2: 0.014*"dont" + 0.012*"kill" + 0.009*"please" + 0.009*"think" + 0.007*"first" + 0.007*"know" + 0.005*"need" + 0.005*"going" + 0.005*"night" + 0.005*"fuck"
+Topic 3: 0.012*"lol" + 0.010*"dont" + 0.008*"know" + 0.008*"amp" + 0.008*"fucking" + 0.006*"last" + 0.006*"hey" + 0.006*"like" + 0.006*"gay" + 0.004*"want"
+Topic 4: 0.009*"yes" + 0.009*"head" + 0.009*"tranny" + 0.007*"would" + 0.007*"like" + 0.007*"good" + 0.007*"tell" + 0.007*"lol" + 0.005*"let" + 0.005*"hope"
