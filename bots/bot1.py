@@ -14,15 +14,15 @@ from dateutil import parser
 import psutil
 
 # === CONFIG === #
-PROFILE_PATHS = ["/Users/mirelradoi19/selenium", "/Users/mirelradoi19/selenium2"]
+PROFILE_PATHS = ["", ""]
 TWITTER_HOME_URL = "https://twitter.com/i/flow/login"
 TWITTER_HOME = "https://x.com/home"
-GMAIL_EMAIL = "luca.dutu"
-GMAIL_PASSWORD = "Pinky01!"
-OUTPUT_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP/Data/foryou_tweets_bot1.csv"
+GMAIL_EMAIL = ""
+GMAIL_PASSWORD = ""
+OUTPUT_FILE = "Data/foryou_tweets_bot1.csv"
 BOT_NAME = "bot1"
-STATUS_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP/Maintenance/status_file.lock"
-PROFILE_STATE_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP/Maintenance/profile_state_bot1.txt"
+STATUS_FILE = ""
+PROFILE_STATE_FILE = ""
 
 # === Profile  === #
 def load_profile_index():
