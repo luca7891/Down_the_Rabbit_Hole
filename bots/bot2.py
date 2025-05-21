@@ -14,16 +14,15 @@ from selenium.webdriver.chrome.service import Service
 from dateutil import parser
 
 # === CONFIG === #
-PROFILE_PATHS = ["/Users/mirelradoi18/selenium3", "/Users/mirelradoi18/selenium4"]
-VPN_SERVICE_NAME = "995F3290-DDCD-41B8-B2F6-3F4B98E0C1ED"
+PROFILE_PATHS = ["", ""]
 TWITTER_HOME_URL = "https://twitter.com/i/flow/login"
 TWITTER_HOME = "https://x.com/home"
-GMAIL_EMAIL = "mirelradoi968"
-GMAIL_PASSWORD = "Faradelege1!"
-OUTPUT_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP /Data/foryou_tweets_bot2.csv"
+GMAIL_EMAIL = ""
+GMAIL_PASSWORD = ""
+OUTPUT_FILE = "Data/foryou_tweets_bot2.csv"
 BOT_NAME = "bot2"
-STATUS_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP /Maintenance /status_file.lock"
-PROFILE_STATE_FILE = "/Users/lucadutu/PycharmProjects/Programming for AI/BAP /Maintenance /profile_state_bot2.txt"
+STATUS_FILE = "Maintenance/status_file.lock"
+PROFILE_STATE_FILE = "Maintenance/profile_state_bot2.txt"
 
 # === Profile  === #
 def load_profile_index():
